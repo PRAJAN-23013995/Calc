@@ -170,5 +170,5 @@ Publish the website in the given URL.
 
 ![alt text](<prajan/calcapp/static/Screenshot (34).png>)
 
-## RESULT:s
+## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
